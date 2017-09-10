@@ -1,0 +1,6 @@
+# sum of two nos
+ 
+ a=INTEGER(input("Enter first no"))
+ b=INTEGER(input("Enter second no"))
+ c=a+b
+ print("sum=",c)
