@@ -4,3 +4,5 @@
  b=INTEGER(input("Enter second no"))
  c=a+b
  print("sum of two nos=",c)
+
+##nd of pgm
